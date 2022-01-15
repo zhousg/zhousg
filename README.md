@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on FE
 - 🌱 I’m currently learning TS
 - 👯 I’m looking to collaborate on project
-- 📫 How to reach me: 345313727
+- 📫 How to reach me: zhoushugang@itcast.cn
 
 <!--
 **zhousg/zhousg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
