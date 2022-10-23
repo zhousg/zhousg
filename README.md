@@ -4,7 +4,7 @@
 - 📫 How to reach me: zhoushugang@itcast.cn
 - ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=plasticee&logo=JavaScript&labelColor=f7df1e&logoColor=000) ![](https://img.shields.io/badge/-Typescript-29beb0?style=plastice&logo=TypeScript&labelColor=ffffff&color=294E80) ![](https://img.shields.io/badge/-Vue.js-29beb0?style=plastice&logo=vue.js&labelColor=ffffff&color=4FC08D) ![](https://img.shields.io/badge/-React-29beb0?style=plastice&logo=React&labelColor=ffffff&color=61DAFB)
 
-![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
+![](https://visitor-badge.glitch.me/badge?page_id=zhousg.zhousg)
 
 <!--
 **zhousg/zhousg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
