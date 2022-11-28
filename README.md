@@ -1,4 +1,6 @@
+<a href="https://github.com/pulls?q=author%3Azhousg">
 <img align="right" src="https://github-stats.liuli.lol/api?username=zhousg&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
+</a>  
 
 - 🔭 I’m currently working on FE 
 - 📫 How to reach me: zhoushugang@itcast.cn
