@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhousg&show_icons=true&icon_color=42b883&text_color=000000&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-stats.liuli.lol/api?username=zhousg&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
 
 - 🔭 I’m currently working on FE 
 - 📫 How to reach me: zhoushugang@itcast.cn
