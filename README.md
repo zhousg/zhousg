@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on FE 
 - 📫 How to reach me: 345313727@qq.com
 - ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=plasticee&logo=JavaScript&labelColor=f7df1e&logoColor=000) ![](https://img.shields.io/badge/-Typescript-29beb0?style=plastice&logo=TypeScript&labelColor=ffffff&color=294E80) ![](https://img.shields.io/badge/-Vue.js-29beb0?style=plastice&logo=vue.js&labelColor=ffffff&color=4FC08D) ![](https://img.shields.io/badge/-React-29beb0?style=plastice&logo=React&labelColor=ffffff&color=61DAFB)
-- ![](https://komarev.com/ghpvc/?username=zhousg&color=green)
+- <img src="https://komarev.com/ghpvc/?username=zhousg&label=Profile%20views&color=4FC08D&style=flat" alt="C3n7ral051nt4g3ncy" />
 
 <!--
 **zhousg/zhousg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
