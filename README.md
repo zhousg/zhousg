@@ -1,6 +1,6 @@
 <a href="https://github.com/pulls?q=author%3Azhousg">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhousg&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zhousg&layout=compact&langs_count=8&theme=algolia&hide=html&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zhousg&layout=compact&langs_count=8&theme=vue&hide=html&count_private=true"/>
 </a>
 
 - 🔭 I’m currently working on FE 
