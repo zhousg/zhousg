@@ -1,6 +1,6 @@
 <a href="https://github.com/pulls?q=author%3Azhousg">
-<img align="right" src="https://github-stats.liuli.lol/api?username=zhousg&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
-</a>  
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhousg&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+</a>
 
 - 🔭 I’m currently working on FE 
 - 📫 How to reach me: 345313727@qq.com
