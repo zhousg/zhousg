@@ -1,4 +1,7 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhousg&show_icons=true&theme=vue)
 
+
+<!--
 - 🔭 I’m currently working on FE 
 - 📫 How to reach me: zhousg1007@qq.com
 - ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=plasticee&logo=JavaScript&labelColor=f7df1e&logoColor=000) ![](https://img.shields.io/badge/-Typescript-29beb0?style=plastice&logo=TypeScript&labelColor=ffffff&color=294E80) ![](https://img.shields.io/badge/-Vue.js-29beb0?style=plastice&logo=vue.js&labelColor=ffffff&color=4FC08D) ![](https://img.shields.io/badge/-React-29beb0?style=plastice&logo=React&labelColor=ffffff&color=61DAFB)
@@ -6,8 +9,6 @@
 <a href="https://github.com/pulls?q=author%3Azhousg">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhousg&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
 </a>
-
-<!--
 
 <img align="" width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=zhousg&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
 <img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=zhousg&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
