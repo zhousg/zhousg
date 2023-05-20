@@ -10,9 +10,9 @@
 <code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhousg&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zhousg&layout=compact&theme=vue&hide_border=true&count_private=true" /></a> |
-| ------------- | ------------- |
-
+<a href="https://github.com/pulls?q=author%3Azhousg">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhousg&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+</a>
 
 <!--
 
