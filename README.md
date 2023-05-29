@@ -10,11 +10,13 @@
 <code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
-![zhousg's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhousg&show_icons=true&theme=vue&count_private=true&include_all_commits=true)
+<a href="https://github.com/pulls?q=author%3Azhousg">
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhousg&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+</a>
 
 <!--
 <a href="https://github.com/pulls?q=author%3Azhousg">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhousg&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhousg&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
 </a>
 
 
