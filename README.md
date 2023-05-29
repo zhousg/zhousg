@@ -1,4 +1,4 @@
-#### Hi 👋, I'm Zhousg
+#### Hi 👋, I'm ShuGang Zhou
 
 - 🔭 I’m currently working on FrontEnd    
 - 📫 How to reach me: zhousg1007@qq.com
