@@ -14,6 +14,8 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zhousg&show_icons=true&theme=vue&include_all_commits=false&count_private=true"/>
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=zhousg.zhousg&right_color=green)
+
 <!--
 <a href="https://github.com/pulls?q=author%3Azhousg">
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhousg&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
