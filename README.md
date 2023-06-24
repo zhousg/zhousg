@@ -14,7 +14,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zhousg&show_icons=true&theme=vue&include_all_commits=false&count_private=true"/>
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=zhousg.zhousg&right_color=green)
+[![Page Views Count](https://badges.toozhao.com/badges/01H3PR8Y390X50W48K6ATCZ8P0/green.svg)](https://badges.toozhao.com/stats/01H3PR8Y390X50W48K6ATCZ8P0 "Get your own page views count badge on badges.toozhao.com")
 
 <!--
 <a href="https://github.com/pulls?q=author%3Azhousg">
