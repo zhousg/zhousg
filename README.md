@@ -1,8 +1,8 @@
-#### Hi 👋, I'm ShuGang Zhou [![Page Views Count](https://badges.toozhao.com/badges/01H3PR8Y390X50W48K6ATCZ8P0/green.svg)](https://badges.toozhao.com/stats/01H3PR8Y390X50W48K6ATCZ8P0 "Get your own page views count badge on badges.toozhao.com")
+#### Hi 👋, I'm ShuGang Zhou
 
-- 🔭 I’m currently working on FrontEnd    
+- 🔭 I’m currently working on FrontEnd 
 - 📫 How to reach me: zhousg1007@qq.com
-- 💬 Ask me about anything [here](https://github.com/zhousg/zhousg/issues)
+- 💬 Ask me about anything [here](https://github.com/zhousg/zhousg/issues) [![Page Views Count](https://badges.toozhao.com/badges/01H3PR8Y390X50W48K6ATCZ8P0/green.svg)](https://badges.toozhao.com/stats/01H3PR8Y390X50W48K6ATCZ8P0 "Get your own page views count badge on badges.toozhao.com")
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
