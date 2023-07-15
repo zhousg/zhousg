@@ -1,4 +1,4 @@
-#### Hi 👋, I'm ShuGang Zhou
+#### Hi 👋, I'm ShuGang Zhou [![Page Views Count](https://badges.toozhao.com/badges/01H3PR8Y390X50W48K6ATCZ8P0/green.svg)](https://badges.toozhao.com/stats/01H3PR8Y390X50W48K6ATCZ8P0 "Get your own page views count badge on badges.toozhao.com")
 
 - 🔭 I’m currently working on FrontEnd    
 - 📫 How to reach me: zhousg1007@qq.com
@@ -9,7 +9,6 @@
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-[![Page Views Count](https://badges.toozhao.com/badges/01H3PR8Y390X50W48K6ATCZ8P0/green.svg)](https://badges.toozhao.com/stats/01H3PR8Y390X50W48K6ATCZ8P0 "Get your own page views count badge on badges.toozhao.com")
 
 <a href="https://github.com/pulls?q=author%3Azhousg">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zhousg&show_icons=true&theme=vue&include_all_commits=false&count_private=true"/>
