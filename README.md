@@ -9,14 +9,13 @@
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+[![Page Views Count](https://badges.toozhao.com/badges/01H3PR8Y390X50W48K6ATCZ8P0/green.svg)](https://badges.toozhao.com/stats/01H3PR8Y390X50W48K6ATCZ8P0 "Get your own page views count badge on badges.toozhao.com")
 
 <a href="https://github.com/pulls?q=author%3Azhousg">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zhousg&show_icons=true&theme=vue&include_all_commits=false&count_private=true"/>
 </a>
 
-[![Page Views Count](https://badges.toozhao.com/badges/01H3PR8Y390X50W48K6ATCZ8P0/green.svg)](https://badges.toozhao.com/stats/01H3PR8Y390X50W48K6ATCZ8P0 "Get your own page views count badge on badges.toozhao.com")
-
-<a href="https://github.com/CatsJuice/ssr-contributions-img">
+<a href="https://github.com/zhousg/ssr-contributions-img">
 
    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/zhousg?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
